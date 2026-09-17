@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StudentProfileCard</string>
+
+    <string name="avatar_desc">Ảnh đại diện sinh viên</string>
+    <string name="hint_new_gpa">Nhập GPA mới (0.0 - 4.0)</string>
+    <string name="btn_update_gpa">Cập Nhật Thông Tin</string>
+    <string name="btn_call">📞 Gọi Điện</string>
+    <string name="btn_delete_profile">🗑 Xóa Hồ Sơ</string>
+
+    <string name="msg_gpa_invalid">Điểm GPA không hợp lệ!</string>
+    <string name="msg_gpa_updated">Cập nhật điểm thành công!</string>
+    <string name="msg_no_phone">Sinh viên chưa có số điện thoại!</string>
+    <string name="msg_deleted">Đã xóa hồ sơ sinh viên!</string>
+
+    <string name="dialog_delete_title">Xác nhận xóa</string>
+    <string name="dialog_delete_message">Bạn có chắc chắn muốn xóa hồ sơ sinh viên này không?</string>
+    <string name="dialog_confirm">Đồng ý</string>
+    <string name="dialog_cancel">Hủy</string>
+</resources>
