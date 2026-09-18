@@ -19,9 +19,9 @@ class MainActivity : AppCompatActivity() {
 
     // ── Dữ liệu sinh viên hiện tại (Data Class + Immutability) ──
     private var currentStudent = Student(
-        id = "22120005",
-        name = "Nguyen Van An",
-        className = "DD2026",
+        id = "2415053122339",
+        name = "Nguyen Dang Thang",
+        className = "LTDT",
         email = "anv@ute.udn.vn",
         phone = "0905123456",
         gpa = 3.8
